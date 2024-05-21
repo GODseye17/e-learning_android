@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491940519175",
+    "project_id": "emerald-abbey-384709",
+    "storage_bucket": "emerald-abbey-384709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491940519175:android:50e4639c89c741ee7779a2",
+        "android_client_info": {
+          "package_name": "com.example.elearningapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbRcBKvWTu6fhUYoRRbMMZfp3QRhS-F78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
